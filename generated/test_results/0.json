@@ -1,0 +1,33 @@
+{
+  "traceId": "b40f3381451b434ac1d4f0611357492f",
+  "testFile": "trace-0.test.ts",
+  "request": {
+    "pathKey": "/articles",
+    "route": "/articles",
+    "method": "GET"
+  },
+  "response": {
+    "expected": {
+      "status": 404,
+      "body": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"utf-8\">\n<title>Error</title>\n</head>\n<body>\n<pre>Cannot GET /articles</pre>\n</body>\n</html>\n",
+      "header": {
+        "x-powered-by": "Express",
+        "content-security-policy": "default-src 'none'",
+        "x-content-type-options": "nosniff",
+        "content-type": "text/html; charset=utf-8"
+      }
+    },
+    "observed": {
+      "status": 404,
+      "body": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"utf-8\">\n<title>Error</title>\n</head>\n<body>\n<pre>Cannot GET /articles</pre>\n</body>\n</html>\n",
+      "header": {
+        "x-powered-by": "Express",
+        "content-security-policy": "default-src 'none'",
+        "x-content-type-options": "nosniff",
+        "content-type": "text/html; charset=utf-8"
+      }
+    }
+  },
+  "expectedCalls": [],
+  "observedCalls": []
+}
