@@ -1,3 +1,11 @@
+import { setup } from "@detail-dev/trace";
+// Or, if you're using requires:
+// const { setup } = require('@detail-dev/trace');
+
+setup({
+  localDevMode: true
+});
+
 import express from 'express';
 import cors from 'cors';
 import * as bodyParser from 'body-parser';
