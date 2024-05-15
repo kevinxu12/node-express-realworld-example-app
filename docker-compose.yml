@@ -1,0 +1,17 @@
+version: "3.8"
+
+services:
+  conduit-db:
+    image: postgres:13  # Explicitly using the latest tag
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: postgres
+    ports:
+      - "5431:5432"
+    restart: unless-stopped
+    volumes:
+      - pgdata:/var/lib/postgresql/data  # Properly map the volume to the data directory
+
+volumes:
+  pgdata:
