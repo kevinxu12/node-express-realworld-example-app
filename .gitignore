@@ -45,3 +45,5 @@ Thumbs.db
 src/detail/generated
 src/detail/coverage
 generated/
+spans.jsonl
+realworld.json

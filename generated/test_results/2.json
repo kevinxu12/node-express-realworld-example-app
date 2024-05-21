@@ -1,23 +1,23 @@
 {
-  "traceId": "cc428a33fcf6ddbb0e58267d3ff2999a",
+  "traceId": "dbfa4aff341d32c480f086deb5fde602",
   "testFile": "trace-2.test.ts",
   "request": {
     "pathKey": "/api/articles",
     "route": "/api/articles",
-    "method": "GET"
+    "method": "POST"
   },
   "response": {
     "expected": {
-      "status": 200,
-      "body": "{\"articles\":[{\"slug\":\"Ill-calculate-the-1080p-XML-transmitter-that-should-alarm-the-RSS-firewall!-1\",\"title\":\"Ill calculate the 1080p XML transmitter, that should alarm the RSS firewall!\",\"description\":\"Tempora sunt enim. Sint ullam deleniti ut. Consequatur unde error odio quod fugit. Expedita unde commodi ratione sequi velit. Qui reprehenderit et tempora tenetur rerum. Veritatis consequatur odit sequi explicabo.\",\"body\":\"Facere beatae delectus ut.\\\\nPossimus voluptas perspiciatis voluptatem nihil sint praesentium.\\\\nSint est nihil voluptates nesciunt voluptatibus temporibus blanditiis.\\\\nOfficiis voluptatem earum sed. Qui corrupti at eius cumque adipisci ut sunt voluptates ab. Quia consequatur voluptatibus et.\\\\nVoluptatibus aspernatur et.\\\\nDicta architecto qui dignissimos.\\\\nVeritatis facilis voluptatem inventore aliquid cum.\\\\nNumquam odio quis porro sunt adipisci culpa. Doloribus temporibus dolorum placeat.\\\\nFugit nulla quaerat.\\\\nEveniet ratione odit sed non rerum.\\\\nNemo tempore eveniet veritatis alias repellat et.\\\\nVoluptas nisi quis commodi id. Ad voluptate vel.\\\\nAut aut dolor. Libero sed ut architecto.\\\\nEx itaque et modi aut voluptatem alias quae.\\\\nModi dolor cupiditate sit.\\\\nDelectus consectetur nobis aliquid deserunt sint ut et voluptas.\\\\nCorrupti in labore laborum quod. Qui et dolorum.\\\\nEveniet architecto qui accusamus et modi harum facilis a eum.\\\\nEt vel cumque voluptatem earum minima perferendis. Voluptatem velit ut deserunt.\\\\nQuibusdam eius repellat. Non natus nihil. Id est non ad temporibus nobis.\\\\nQuod soluta quae voluptatem quisquam est.\",\"tagList\":[\"nostrum\",\"ullam\",\"voluptatem\",\"eos\"],\"createdAt\":\"2024-05-15T17:38:35.999Z\",\"updatedAt\":\"2024-05-15T17:38:35.999Z\",\"favorited\":false,\"favoritesCount\":0,\"author\":{\"username\":\"Kseniya Peña\",\"bio\":null,\"image\":\"https://api.realworld.io/images/demo-avatar.png\",\"following\":false}},{\"slug\":\"Try-to-input-the-HTTP-feed-maybe-it-will-reboot-the-mobile-capacitor!-1\",\"title\":\"Try to input the HTTP feed, maybe it will reboot the mobile capacitor!\",\"description\":\"Rerum quisquam qui repellendus totam nemo nihil odio. Tempore quam non vel molestiae veniam rem necessitatibus. Voluptas commodi recusandae vel illum eveniet ex. Dolore facilis illum atque explicabo.\",\"body\":\"Ipsa laudantium deserunt. Fugit harum mollitia.\\\\nMagni eos asperiores assumenda ad. Quos pariatur tenetur.\\\\nQuasi omnis eveniet eos maiores esse magni possimus blanditiis.\\\\nQui incidunt sit quos consequatur aut qui et aperiam delectus.\\\\nPraesentium quas culpa.\\\\nEaque occaecati cumque incidunt et. Similique et quos maiores commodi exercitationem laborum animi qui. Minima qui ut nulla eius.\\\\nA incidunt ipsum tempore porro tempore.\\\\nFugit quas voluptas ducimus aut.\\\\nTempore nostrum velit expedita voluptate est.\\\\nNam iste explicabo tempore impedit voluptas. Totam ab necessitatibus quidem non. Totam voluptas consequatur officiis.\\\\nPlaceat sit nobis ut est quae dolore consequuntur vel.\\\\nRepudiandae ut molestias rerum occaecati quod.\\\\nRerum optio minus aliquid.\\\\nIllum et voluptas iusto molestiae nulla praesentium deserunt est voluptas. Omnis quidem vero eius sed laudantium a ex a saepe.\\\\nModi qui laudantium in libero odit et impedit. Sed dolores nostrum quis. Eos pariatur eos fugit aut aperiam labore beatae.\\\\nVel non ea id dignissimos voluptate quis error assumenda consectetur.\\\\nRerum quas libero totam error facere sunt facilis quo.\\\\nEveniet debitis et aliquid ratione.\",\"tagList\":[\"voluptate\",\"hic\",\"magnam\",\"nulla\"],\"createdAt\":\"2024-05-15T17:38:35.998Z\",\"updatedAt\":\"2024-05-15T17:38:35.998Z\",\"favorited\":false,\"favoritesCount\":0,\"author\":{\"username\":\"Kseniya Peña\",\"bio\":null,\"image\":\"https://api.realworld.io/images/demo-avatar.png\",\"following\":false}},{\"slug\":\"Try-to-synthesize-the-SCSI-card-maybe-it-will-back-up-the-1080p-circuit!-1\",\"title\":\"Try to synthesize the SCSI card, maybe it will back up the 1080p circuit!\",\"description\":\"Consectetur suscipit beatae est ut ut dolorem voluptas. Et sunt ratione. Consequatur illo et architecto.\",\"body\":\"Laborum itaque quos provident.\\\\nRerum cupiditate praesentium amet voluptatem dolor impedit modi dicta.\\\\nVoluptates assumenda optio est.\\\\nNon aperiam nam consequuntur vel a commodi dicta incidunt. Illum voluptates ut vel et.\\\\nUt debitis excepturi suscipit perferendis officia numquam possimus.\\\\nFacere sit doloremque repudiandae corrupti veniam qui. Cum vitae aliquam neque consequatur quia id dicta ipsam.\\\\nExercitationem ab eum exercitationem non alias numquam qui.\\\\nItaque rerum ut nobis est nam vitae exercitationem minima fugiat.\\\\nEst sit non tempora soluta consequatur eveniet.\\\\nCorporis nisi dolorem architecto voluptatem. Animi enim quo deserunt.\\\\nAmet facilis at laboriosam.\\\\nRerum assumenda harum et sapiente suscipit ipsa fugiat.\\\\nSunt ut aut rem expedita consequatur optio.\\\\nRecusandae tenetur rerum quos culpa. Rerum minus et quia et dolorem officiis sunt id.\\\\nPariatur dolorum sint blanditiis ex vero optio.\\\\nQuam numquam omnis porro voluptatem. Omnis quidem vero eius sed laudantium a ex a saepe.\\\\nModi qui laudantium in libero odit et impedit. Quo perferendis nesciunt.\\\\nDolore dolorem porro omnis voluptatibus consequuntur et expedita suscipit et.\\\\nTempora facere ipsa.\\\\nDolore accusamus soluta officiis eligendi.\\\\nEum quaerat neque eum beatae odio. Doloribus consequatur et labore suscipit deserunt tempore ad quasi sed.\\\\nQuam cupiditate modi dolor et eos et culpa qui.\\\\nDelectus molestias ea id.\\\\nIllum ea unde sapiente non non non.\\\\nDolorem ut sed magni. Cum vitae aliquam neque consequatur quia id dicta ipsam.\\\\nExercitationem ab eum exercitationem non alias numquam qui.\\\\nItaque rerum ut nobis est nam vitae exercitationem minima fugiat.\\\\nEst sit non tempora soluta consequatur eveniet.\\\\nCorporis nisi dolorem architecto voluptatem. Ipsa laudantium deserunt.\",\"tagList\":[\"consectetur\",\"quia\",\"in\",\"at\"],\"createdAt\":\"2024-05-15T17:38:35.998Z\",\"updatedAt\":\"2024-05-15T17:38:35.998Z\",\"favorited\":false,\"favoritesCount\":0,\"author\":{\"username\":\"Kseniya Peña\",\"bio\":null,\"image\":\"https://api.realworld.io/images/demo-avatar.png\",\"following\":false}},{\"slug\":\"The-THX-monitor-is-down-reboot-the-auxiliary-array-so-we-can-parse-the-XML-microchip!-1\",\"title\":\"The THX monitor is down, reboot the auxiliary array so we can parse the XML microchip!\",\"description\":\"Libero quod eius. Ad libero qui omnis. Laudantium ut aperiam est exercitationem qui soluta aut ullam. Est dicta veniam voluptas est perspiciatis rerum. Alias ut autem est illo.\",\"body\":\"Et fuga repellendus magnam dignissimos eius aspernatur rerum. Nisi vitae nostrum perspiciatis impedit laborum repellat ullam et ut. Aut ipsa et qui vel similique sed hic a.\\\\nVoluptates dolorem culpa nihil aut ipsam voluptatem. Quas ea voluptatem iste iure.\\\\nEt soluta et doloremque vero quis occaecati et fuga.\\\\nIncidunt recusandae dignissimos iusto quisquam sed unde at ea incidunt.\\\\nId voluptate incidunt qui totam autem voluptas maxime atque quaerat.\\\\nCorporis iste ut molestiae. Eos pariatur eos fugit aut aperiam labore beatae.\\\\nVel non ea id dignissimos voluptate quis error assumenda consectetur.\\\\nRerum quas libero totam error facere sunt facilis quo.\\\\nEveniet debitis et aliquid ratione. Rerum minus et quia et dolorem officiis sunt id.\\\\nPariatur dolorum sint blanditiis ex vero optio.\\\\nQuam numquam omnis porro voluptatem. Ut in omnis sapiente laboriosam autem laborum.\\\\nRepellendus et beatae qui qui numquam saepe.\\\\nNon vitae molestias quos illum.\\\\nSed fugiat qui ullam molestias ad ullam dolore.\\\\nAutem ex minus distinctio dicta sapiente beatae veritatis at. Placeat sequi quaerat sapiente aspernatur autem sunt molestiae voluptatem.\\\\nAccusamus unde libero accusamus omnis totam et temporibus. Voluptatum tempora voluptas est odio iure odio dolorem.\\\\nVoluptatum est deleniti explicabo explicabo harum provident quis molestiae. Voluptatibus harum ullam odio sed animi corporis.\",\"tagList\":[\"blanditiis\",\"fugit\",\"et\",\"consequuntur\"],\"createdAt\":\"2024-05-15T17:38:35.998Z\",\"updatedAt\":\"2024-05-15T17:38:35.998Z\",\"favorited\":false,\"favoritesCount\":0,\"author\":{\"username\":\"Kseniya Peña\",\"bio\":null,\"image\":\"https://api.realworld.io/images/demo-avatar.png\",\"following\":false}},{\"slug\":\"The-ADP-protocol-is-down-parse-the-1080p-card-so-we-can-reboot-the-ADP-application!-1\",\"title\":\"The ADP protocol is down, parse the 1080p card so we can reboot the ADP application!\",\"description\":\"Veritatis officiis est occaecati sunt consequatur. Aut sapiente totam sed ad ad qui eum omnis deleniti. Quis blanditiis aperiam.\",\"body\":\"Dolorum eius dignissimos et magnam voluptate aut voluptatem natus.\\\\nAut sint est eum molestiae consequatur officia omnis.\\\\nQuae et quam odit voluptatum itaque ducimus magni dolores ab.\\\\nDolorum sed iure voluptatem et reiciendis. Et sed dicta eveniet accusamus consequatur.\\\\nUllam voluptas consequatur aut eos ducimus.\\\\nId officia est ut dicta provident beatae ipsa. Ipsa labore numquam aut quidem quia.\\\\nMinus ut et recusandae sed dolorem eveniet.\\\\nEst vero sit et omnis et explicabo exercitationem qui quasi.\\\\nQui maxime iusto alias sint nihil quas.\\\\nModi quaerat voluptatem reiciendis reiciendis vero. Commodi est rerum dolorum quae voluptatem aliquam. Molestias non debitis quibusdam quis quod.\\\\nSaepe ab et hic unde et sed.\\\\nMagni voluptatem est.\\\\nEt similique quo porro et. Ut in omnis sapiente laboriosam autem laborum.\\\\nRepellendus et beatae qui qui numquam saepe.\\\\nNon vitae molestias quos illum.\\\\nSed fugiat qui ullam molestias ad ullam dolore.\\\\nAutem ex minus distinctio dicta sapiente beatae veritatis at. Ipsam voluptate fugiat iusto illo dignissimos rerum sint placeat.\\\\nLabore sit omnis. Temporibus aut adipisci magnam aliquam eveniet nihil laudantium reprehenderit sit.\\\\nAspernatur cumque labore voluptates mollitia deleniti et. Ipsa cumque ad repellat qui libero quia impedit fugiat.\\\\nExcepturi ut vitae recusandae eos quisquam et voluptatem.\\\\nNeque nostrum distinctio provident eius tempore odio aliquid.\\\\nSaepe ut suscipit architecto. Facere consequatur ullam.\\\\nSint illum iste ab et saepe sit ut quis voluptatibus.\\\\nQuo esse dolorum a quasi nihil.\\\\nError quo eveniet.\\\\nQuia aut rem quia in iste fugit ad.\",\"tagList\":[\"beatae\",\"vel\",\"qui\",\"laborum\"],\"createdAt\":\"2024-05-15T17:38:35.998Z\",\"updatedAt\":\"2024-05-15T17:38:35.998Z\",\"favorited\":false,\"favoritesCount\":0,\"author\":{\"username\":\"Kseniya Peña\",\"bio\":null,\"image\":\"https://api.realworld.io/images/demo-avatar.png\",\"following\":false}},{\"slug\":\"We-need-to-calculate-the-mobile-AGP-panel!-1\",\"title\":\"We need to calculate the mobile AGP panel!\",\"description\":\"Unde est nesciunt consequuntur magnam quo quia et fugiat. Totam sapiente iure eaque. Ut praesentium quisquam dolorem animi quibusdam quo nostrum facilis. Quasi quos et beatae architecto perferendis. Et laudantium officiis autem aut dolor iure et omnis.\",\"body\":\"Ducimus dolores recusandae.\\\\nEa aut aperiam et aut eos inventore.\\\\nQuia cum ducimus autem iste.\\\\nQuos consequuntur est delectus temporibus autem. Deserunt ab porro similique est accusamus id enim aut suscipit.\\\\nSoluta reprehenderit error nesciunt odit veniam sed.\\\\nDolore optio qui aut ab.\\\\nAut minima provident eius repudiandae a quibusdam in nisi quam. Animi enim quo deserunt.\\\\nAmet facilis at laboriosam.\\\\nRerum assumenda harum et sapiente suscipit ipsa fugiat.\\\\nSunt ut aut rem expedita consequatur optio.\\\\nRecusandae tenetur rerum quos culpa. Cum vitae aliquam neque consequatur quia id dicta ipsam.\\\\nExercitationem ab eum exercitationem non alias numquam qui.\\\\nItaque rerum ut nobis est nam vitae exercitationem minima fugiat.\\\\nEst sit non tempora soluta consequatur eveniet.\\\\nCorporis nisi dolorem architecto voluptatem. Ipsam voluptate fugiat iusto illo dignissimos rerum sint placeat.\\\\nLabore sit omnis. Voluptatem cumque molestias soluta consequatur aut voluptatibus beatae vel commodi.\\\\nNulla voluptatem aut. Cum vitae aliquam neque consequatur quia id dicta ipsam.\\\\nExercitationem ab eum exercitationem non alias numquam qui.\\\\nItaque rerum ut nobis est nam vitae exercitationem minima fugiat.\\\\nEst sit non tempora soluta consequatur eveniet.\\\\nCorporis nisi dolorem architecto voluptatem. Aut ipsa et qui vel similique sed hic a.\\\\nVoluptates dolorem culpa nihil aut ipsam voluptatem. Debitis facilis dolorum maiores aut et.\\\\nEa voluptas magnam deserunt at ut sunt voluptatem.\\\\nEt voluptatem voluptatem.\\\\nUt est fugiat magnam. Dicta quia molestias natus est.\\\\nSit animi inventore a ut ut suscipit.\\\\nEos et et commodi eligendi nihil.\\\\nEa reprehenderit consectetur eum.\",\"tagList\":[\"ducimus\",\"nemo\",\"cupiditate\",\"vitae\"],\"createdAt\":\"2024-05-15T17:38:35.998Z\",\"updatedAt\":\"2024-05-15T17:38:35.998Z\",\"favorited\":false,\"favoritesCount\":0,\"author\":{\"username\":\"Kseniya Peña\",\"bio\":null,\"image\":\"https://api.realworld.io/images/demo-avatar.png\",\"following\":false}},{\"slug\":\"The-GB-port-is-down-quantify-the-mobile-circuit-so-we-can-hack-the-SMTP-system!-1\",\"title\":\"The GB port is down, quantify the mobile circuit so we can hack the SMTP system!\",\"description\":\"Quia sit architecto itaque voluptas aliquam. Rem veritatis qui quasi sint velit dolorem maxime voluptatem. Sit aut laboriosam aspernatur dicta non consequatur qui recusandae. Dignissimos voluptatem labore praesentium.\",\"body\":\"Est est sed itaque necessitatibus vitae officiis.\\\\nIusto dolores sint eveniet quasi dolore quo laborum esse laboriosam.\\\\nModi similique aut voluptates animi aut dicta dolorum.\\\\nSint explicabo autem quidem et.\\\\nNeque aspernatur assumenda fugit provident. Voluptate et quasi optio eos et eveniet culpa et nobis.\\\\nSint aut sint sequi possimus reiciendis nisi.\\\\nRerum et omnis et sit doloribus corporis voluptas error.\\\\nIusto molestiae tenetur necessitatibus dolorem omnis. Ut autem labore nisi iusto.\\\\nRepellendus voluptate eaque eligendi nam facere tempora soluta.\\\\nAnimi sed vero aut dignissimos. Facere consequatur ullam.\\\\nSint illum iste ab et saepe sit ut quis voluptatibus.\\\\nQuo esse dolorum a quasi nihil.\\\\nError quo eveniet.\\\\nQuia aut rem quia in iste fugit ad. Exercitationem suscipit enim et aliquam dolor. Deleniti explicabo assumenda ipsum cumque voluptatem blanditiis voluptatum omnis provident.\\\\nQuis placeat nisi fugit aperiam quaerat mollitia.\\\\nOccaecati repellendus voluptate similique.\\\\nLaboriosam qui qui voluptas itaque ipsa. Autem reiciendis provident iure possimus.\\\\nOccaecati soluta quibusdam libero tenetur minus vel sit illo.\\\\nCulpa optio dolorem eos similique voluptatem voluptatibus error accusantium. Laborum itaque quos provident.\\\\nRerum cupiditate praesentium amet voluptatem dolor impedit modi dicta.\\\\nVoluptates assumenda optio est.\\\\nNon aperiam nam consequuntur vel a commodi dicta incidunt. Pariatur quo neque est perspiciatis non illo rerum expedita minima.\\\\nEt commodi voluptas eos ex.\\\\nUnde velit delectus deleniti deleniti non in sit.\\\\nAliquid voluptatem magni. Sunt excepturi ut dolore fuga.\\\\nAutem eum maiores aut nihil magnam corporis consectetur sit.\",\"tagList\":[\"maiores\",\"error\",\"fugiat\"],\"createdAt\":\"2024-05-15T17:38:35.998Z\",\"updatedAt\":\"2024-05-15T17:38:35.998Z\",\"favorited\":false,\"favoritesCount\":0,\"author\":{\"username\":\"Kseniya Peña\",\"bio\":null,\"image\":\"https://api.realworld.io/images/demo-avatar.png\",\"following\":false}}],\"articlesCount\":7}",
+      "status": 201,
+      "body": "{\"article\":{\"slug\":\"First-article-53\",\"title\":\"First article\",\"description\":\"This is my first article\",\"body\":\"The full content of the article\",\"tagList\":[\"tag1\"],\"createdAt\":\"2024-05-21T03:39:43.850Z\",\"updatedAt\":\"2024-05-21T03:39:43.850Z\",\"favorited\":false,\"favoritesCount\":0,\"author\":{\"username\":\"testuser1\",\"bio\":null,\"image\":\"https://api.realworld.io/images/smiley-cyrus.jpeg\",\"following\":false}}}",
       "header": {
         "x-powered-by": "Express",
         "content-type": "application/json; charset=utf-8"
       }
     },
     "observed": {
-      "status": 500,
-      "body": "\"Cannot read properties of undefined (reading 'count')\"",
+      "status": 201,
+      "body": "{\"article\":{\"slug\":\"First-article-53\",\"title\":\"First article\",\"description\":\"This is my first article\",\"body\":\"The full content of the article\",\"tagList\":[\"tag1\"],\"createdAt\":\"2024-05-21T03:39:43.850Z\",\"updatedAt\":\"2024-05-21T03:39:43.850Z\",\"favorited\":false,\"favoritesCount\":0,\"author\":{\"username\":\"testuser1\",\"bio\":null,\"image\":\"https://api.realworld.io/images/smiley-cyrus.jpeg\",\"following\":false}}}",
       "header": {
         "x-powered-by": "Express",
         "content-type": "application/json; charset=utf-8"
@@ -26,61 +26,61 @@
   },
   "expectedCalls": [
     {
-      "library": "prisma",
-      "input": {
-        "model": "Article",
-        "operation": "count",
-        "queryOptions": {
-          "where": {
-            "AND": [
-              {
-                "author": {
-                  "OR": [
-                    {
-                      "demo": {
-                        "equals": true
-                      }
-                    }
-                  ],
-                  "AND": []
-                }
-              }
-            ]
-          }
-        }
-      },
-      "output": 7,
-      "id": "c30b09e5ea9a362c",
-      "timestamp": 1715796538654000,
+      "library": "date",
+      "input": "now",
+      "output": "1716262783845",
+      "id": "3d899a11e4c12ad9",
+      "timestamp": 1716262783845000,
       "startup": false
     },
     {
       "library": "prisma",
       "input": {
         "model": "Article",
-        "operation": "findMany",
+        "operation": "findUnique",
         "queryOptions": {
           "where": {
-            "AND": [
-              {
-                "author": {
-                  "OR": [
-                    {
-                      "demo": {
-                        "equals": true
-                      }
-                    }
-                  ],
-                  "AND": []
+            "slug": "First-article-53"
+          },
+          "select": {
+            "slug": true
+          }
+        }
+      },
+      "output": null,
+      "id": "b50c9ed8adcaedf8",
+      "timestamp": 1716262783846000,
+      "startup": false
+    },
+    {
+      "library": "prisma",
+      "input": {
+        "model": "Article",
+        "operation": "create",
+        "queryOptions": {
+          "data": {
+            "title": "First article",
+            "description": "This is my first article",
+            "body": "The full content of the article",
+            "slug": "First-article-53",
+            "tagList": {
+              "connectOrCreate": [
+                {
+                  "create": {
+                    "name": "tag1"
+                  },
+                  "where": {
+                    "name": "tag1"
+                  }
                 }
+              ]
+            },
+            "author": {
+              "connect": {
+                "id": 53
               }
-            ]
+            }
           },
-          "orderBy": {
-            "createdAt": "desc"
-          },
-          "skip": 0,
-          "take": 10,
           "include": {
             "tagList": {
               "select": {
@@ -104,247 +104,108 @@
           }
         }
       },
-      "output": [
-        {
-          "id": 10,
-          "slug": "Ill-calculate-the-1080p-XML-transmitter-that-should-alarm-the-RSS-firewall!-1",
-          "title": "Ill calculate the 1080p XML transmitter, that should alarm the RSS firewall!",
-          "description": "Tempora sunt enim. Sint ullam deleniti ut. Consequatur unde error odio quod fugit. Expedita unde commodi ratione sequi velit. Qui reprehenderit et tempora tenetur rerum. Veritatis consequatur odit sequi explicabo.",
-          "body": "Facere beatae delectus ut.\\nPossimus voluptas perspiciatis voluptatem nihil sint praesentium.\\nSint est nihil voluptates nesciunt voluptatibus temporibus blanditiis.\\nOfficiis voluptatem earum sed. Qui corrupti at eius cumque adipisci ut sunt voluptates ab. Quia consequatur voluptatibus et.\\nVoluptatibus aspernatur et.\\nDicta architecto qui dignissimos.\\nVeritatis facilis voluptatem inventore aliquid cum.\\nNumquam odio quis porro sunt adipisci culpa. Doloribus temporibus dolorum placeat.\\nFugit nulla quaerat.\\nEveniet ratione odit sed non rerum.\\nNemo tempore eveniet veritatis alias repellat et.\\nVoluptas nisi quis commodi id. Ad voluptate vel.\\nAut aut dolor. Libero sed ut architecto.\\nEx itaque et modi aut voluptatem alias quae.\\nModi dolor cupiditate sit.\\nDelectus consectetur nobis aliquid deserunt sint ut et voluptas.\\nCorrupti in labore laborum quod. Qui et dolorum.\\nEveniet architecto qui accusamus et modi harum facilis a eum.\\nEt vel cumque voluptatem earum minima perferendis. Voluptatem velit ut deserunt.\\nQuibusdam eius repellat. Non natus nihil. Id est non ad temporibus nobis.\\nQuod soluta quae voluptatem quisquam est.",
-          "createdAt": "2024-05-15T17:38:35.999Z",
-          "updatedAt": "2024-05-15T17:38:35.999Z",
-          "authorId": 1,
-          "tagList": [
-            {
-              "name": "nostrum"
-            },
-            {
-              "name": "ullam"
-            },
-            {
-              "name": "voluptatem"
-            },
-            {
-              "name": "eos"
-            }
-          ],
-          "author": {
-            "username": "Kseniya Peña",
-            "bio": null,
-            "image": "https://api.realworld.io/images/demo-avatar.png",
-            "followedBy": []
-          },
-          "favoritedBy": [],
-          "_count": {
-            "favoritedBy": 0
+      "output": {
+        "id": 64,
+        "slug": "First-article-53",
+        "title": "First article",
+        "description": "This is my first article",
+        "body": "The full content of the article",
+        "createdAt": "2024-05-21T03:39:43.850Z",
+        "updatedAt": "2024-05-21T03:39:43.850Z",
+        "authorId": 53,
+        "tagList": [
+          {
+            "name": "tag1"
           }
+        ],
+        "author": {
+          "username": "testuser1",
+          "bio": null,
+          "image": "https://api.realworld.io/images/smiley-cyrus.jpeg",
+          "followedBy": []
         },
-        {
-          "id": 6,
-          "slug": "Try-to-input-the-HTTP-feed-maybe-it-will-reboot-the-mobile-capacitor!-1",
-          "title": "Try to input the HTTP feed, maybe it will reboot the mobile capacitor!",
-          "description": "Rerum quisquam qui repellendus totam nemo nihil odio. Tempore quam non vel molestiae veniam rem necessitatibus. Voluptas commodi recusandae vel illum eveniet ex. Dolore facilis illum atque explicabo.",
-          "body": "Ipsa laudantium deserunt. Fugit harum mollitia.\\nMagni eos asperiores assumenda ad. Quos pariatur tenetur.\\nQuasi omnis eveniet eos maiores esse magni possimus blanditiis.\\nQui incidunt sit quos consequatur aut qui et aperiam delectus.\\nPraesentium quas culpa.\\nEaque occaecati cumque incidunt et. Similique et quos maiores commodi exercitationem laborum animi qui. Minima qui ut nulla eius.\\nA incidunt ipsum tempore porro tempore.\\nFugit quas voluptas ducimus aut.\\nTempore nostrum velit expedita voluptate est.\\nNam iste explicabo tempore impedit voluptas. Totam ab necessitatibus quidem non. Totam voluptas consequatur officiis.\\nPlaceat sit nobis ut est quae dolore consequuntur vel.\\nRepudiandae ut molestias rerum occaecati quod.\\nRerum optio minus aliquid.\\nIllum et voluptas iusto molestiae nulla praesentium deserunt est voluptas. Omnis quidem vero eius sed laudantium a ex a saepe.\\nModi qui laudantium in libero odit et impedit. Sed dolores nostrum quis. Eos pariatur eos fugit aut aperiam labore beatae.\\nVel non ea id dignissimos voluptate quis error assumenda consectetur.\\nRerum quas libero totam error facere sunt facilis quo.\\nEveniet debitis et aliquid ratione.",
-          "createdAt": "2024-05-15T17:38:35.998Z",
-          "updatedAt": "2024-05-15T17:38:35.998Z",
-          "authorId": 1,
-          "tagList": [
-            {
-              "name": "voluptate"
-            },
-            {
-              "name": "hic"
-            },
-            {
-              "name": "magnam"
-            },
-            {
-              "name": "nulla"
-            }
-          ],
-          "author": {
-            "username": "Kseniya Peña",
-            "bio": null,
-            "image": "https://api.realworld.io/images/demo-avatar.png",
-            "followedBy": []
-          },
-          "favoritedBy": [],
-          "_count": {
-            "favoritedBy": 0
-          }
-        },
-        {
-          "id": 4,
-          "slug": "Try-to-synthesize-the-SCSI-card-maybe-it-will-back-up-the-1080p-circuit!-1",
-          "title": "Try to synthesize the SCSI card, maybe it will back up the 1080p circuit!",
-          "description": "Consectetur suscipit beatae est ut ut dolorem voluptas. Et sunt ratione. Consequatur illo et architecto.",
-          "body": "Laborum itaque quos provident.\\nRerum cupiditate praesentium amet voluptatem dolor impedit modi dicta.\\nVoluptates assumenda optio est.\\nNon aperiam nam consequuntur vel a commodi dicta incidunt. Illum voluptates ut vel et.\\nUt debitis excepturi suscipit perferendis officia numquam possimus.\\nFacere sit doloremque repudiandae corrupti veniam qui. Cum vitae aliquam neque consequatur quia id dicta ipsam.\\nExercitationem ab eum exercitationem non alias numquam qui.\\nItaque rerum ut nobis est nam vitae exercitationem minima fugiat.\\nEst sit non tempora soluta consequatur eveniet.\\nCorporis nisi dolorem architecto voluptatem. Animi enim quo deserunt.\\nAmet facilis at laboriosam.\\nRerum assumenda harum et sapiente suscipit ipsa fugiat.\\nSunt ut aut rem expedita consequatur optio.\\nRecusandae tenetur rerum quos culpa. Rerum minus et quia et dolorem officiis sunt id.\\nPariatur dolorum sint blanditiis ex vero optio.\\nQuam numquam omnis porro voluptatem. Omnis quidem vero eius sed laudantium a ex a saepe.\\nModi qui laudantium in libero odit et impedit. Quo perferendis nesciunt.\\nDolore dolorem porro omnis voluptatibus consequuntur et expedita suscipit et.\\nTempora facere ipsa.\\nDolore accusamus soluta officiis eligendi.\\nEum quaerat neque eum beatae odio. Doloribus consequatur et labore suscipit deserunt tempore ad quasi sed.\\nQuam cupiditate modi dolor et eos et culpa qui.\\nDelectus molestias ea id.\\nIllum ea unde sapiente non non non.\\nDolorem ut sed magni. Cum vitae aliquam neque consequatur quia id dicta ipsam.\\nExercitationem ab eum exercitationem non alias numquam qui.\\nItaque rerum ut nobis est nam vitae exercitationem minima fugiat.\\nEst sit non tempora soluta consequatur eveniet.\\nCorporis nisi dolorem architecto voluptatem. Ipsa laudantium deserunt.",
-          "createdAt": "2024-05-15T17:38:35.998Z",
-          "updatedAt": "2024-05-15T17:38:35.998Z",
-          "authorId": 1,
-          "tagList": [
-            {
-              "name": "consectetur"
-            },
-            {
-              "name": "quia"
-            },
-            {
-              "name": "in"
-            },
-            {
-              "name": "at"
-            }
-          ],
-          "author": {
-            "username": "Kseniya Peña",
-            "bio": null,
-            "image": "https://api.realworld.io/images/demo-avatar.png",
-            "followedBy": []
-          },
-          "favoritedBy": [],
-          "_count": {
-            "favoritedBy": 0
-          }
-        },
-        {
-          "id": 1,
-          "slug": "The-THX-monitor-is-down-reboot-the-auxiliary-array-so-we-can-parse-the-XML-microchip!-1",
-          "title": "The THX monitor is down, reboot the auxiliary array so we can parse the XML microchip!",
-          "description": "Libero quod eius. Ad libero qui omnis. Laudantium ut aperiam est exercitationem qui soluta aut ullam. Est dicta veniam voluptas est perspiciatis rerum. Alias ut autem est illo.",
-          "body": "Et fuga repellendus magnam dignissimos eius aspernatur rerum. Nisi vitae nostrum perspiciatis impedit laborum repellat ullam et ut. Aut ipsa et qui vel similique sed hic a.\\nVoluptates dolorem culpa nihil aut ipsam voluptatem. Quas ea voluptatem iste iure.\\nEt soluta et doloremque vero quis occaecati et fuga.\\nIncidunt recusandae dignissimos iusto quisquam sed unde at ea incidunt.\\nId voluptate incidunt qui totam autem voluptas maxime atque quaerat.\\nCorporis iste ut molestiae. Eos pariatur eos fugit aut aperiam labore beatae.\\nVel non ea id dignissimos voluptate quis error assumenda consectetur.\\nRerum quas libero totam error facere sunt facilis quo.\\nEveniet debitis et aliquid ratione. Rerum minus et quia et dolorem officiis sunt id.\\nPariatur dolorum sint blanditiis ex vero optio.\\nQuam numquam omnis porro voluptatem. Ut in omnis sapiente laboriosam autem laborum.\\nRepellendus et beatae qui qui numquam saepe.\\nNon vitae molestias quos illum.\\nSed fugiat qui ullam molestias ad ullam dolore.\\nAutem ex minus distinctio dicta sapiente beatae veritatis at. Placeat sequi quaerat sapiente aspernatur autem sunt molestiae voluptatem.\\nAccusamus unde libero accusamus omnis totam et temporibus. Voluptatum tempora voluptas est odio iure odio dolorem.\\nVoluptatum est deleniti explicabo explicabo harum provident quis molestiae. Voluptatibus harum ullam odio sed animi corporis.",
-          "createdAt": "2024-05-15T17:38:35.998Z",
-          "updatedAt": "2024-05-15T17:38:35.998Z",
-          "authorId": 1,
-          "tagList": [
-            {
-              "name": "blanditiis"
-            },
-            {
-              "name": "fugit"
-            },
-            {
-              "name": "et"
-            },
-            {
-              "name": "consequuntur"
-            }
-          ],
-          "author": {
-            "username": "Kseniya Peña",
-            "bio": null,
-            "image": "https://api.realworld.io/images/demo-avatar.png",
-            "followedBy": []
-          },
-          "favoritedBy": [],
-          "_count": {
-            "favoritedBy": 0
-          }
-        },
-        {
-          "id": 7,
-          "slug": "The-ADP-protocol-is-down-parse-the-1080p-card-so-we-can-reboot-the-ADP-application!-1",
-          "title": "The ADP protocol is down, parse the 1080p card so we can reboot the ADP application!",
-          "description": "Veritatis officiis est occaecati sunt consequatur. Aut sapiente totam sed ad ad qui eum omnis deleniti. Quis blanditiis aperiam.",
-          "body": "Dolorum eius dignissimos et magnam voluptate aut voluptatem natus.\\nAut sint est eum molestiae consequatur officia omnis.\\nQuae et quam odit voluptatum itaque ducimus magni dolores ab.\\nDolorum sed iure voluptatem et reiciendis. Et sed dicta eveniet accusamus consequatur.\\nUllam voluptas consequatur aut eos ducimus.\\nId officia est ut dicta provident beatae ipsa. Ipsa labore numquam aut quidem quia.\\nMinus ut et recusandae sed dolorem eveniet.\\nEst vero sit et omnis et explicabo exercitationem qui quasi.\\nQui maxime iusto alias sint nihil quas.\\nModi quaerat voluptatem reiciendis reiciendis vero. Commodi est rerum dolorum quae voluptatem aliquam. Molestias non debitis quibusdam quis quod.\\nSaepe ab et hic unde et sed.\\nMagni voluptatem est.\\nEt similique quo porro et. Ut in omnis sapiente laboriosam autem laborum.\\nRepellendus et beatae qui qui numquam saepe.\\nNon vitae molestias quos illum.\\nSed fugiat qui ullam molestias ad ullam dolore.\\nAutem ex minus distinctio dicta sapiente beatae veritatis at. Ipsam voluptate fugiat iusto illo dignissimos rerum sint placeat.\\nLabore sit omnis. Temporibus aut adipisci magnam aliquam eveniet nihil laudantium reprehenderit sit.\\nAspernatur cumque labore voluptates mollitia deleniti et. Ipsa cumque ad repellat qui libero quia impedit fugiat.\\nExcepturi ut vitae recusandae eos quisquam et voluptatem.\\nNeque nostrum distinctio provident eius tempore odio aliquid.\\nSaepe ut suscipit architecto. Facere consequatur ullam.\\nSint illum iste ab et saepe sit ut quis voluptatibus.\\nQuo esse dolorum a quasi nihil.\\nError quo eveniet.\\nQuia aut rem quia in iste fugit ad.",
-          "createdAt": "2024-05-15T17:38:35.998Z",
-          "updatedAt": "2024-05-15T17:38:35.998Z",
-          "authorId": 1,
-          "tagList": [
-            {
-              "name": "beatae"
-            },
-            {
-              "name": "vel"
-            },
-            {
-              "name": "qui"
-            },
-            {
-              "name": "laborum"
-            }
-          ],
-          "author": {
-            "username": "Kseniya Peña",
-            "bio": null,
-            "image": "https://api.realworld.io/images/demo-avatar.png",
-            "followedBy": []
-          },
-          "favoritedBy": [],
-          "_count": {
-            "favoritedBy": 0
-          }
-        },
-        {
-          "id": 2,
-          "slug": "We-need-to-calculate-the-mobile-AGP-panel!-1",
-          "title": "We need to calculate the mobile AGP panel!",
-          "description": "Unde est nesciunt consequuntur magnam quo quia et fugiat. Totam sapiente iure eaque. Ut praesentium quisquam dolorem animi quibusdam quo nostrum facilis. Quasi quos et beatae architecto perferendis. Et laudantium officiis autem aut dolor iure et omnis.",
-          "body": "Ducimus dolores recusandae.\\nEa aut aperiam et aut eos inventore.\\nQuia cum ducimus autem iste.\\nQuos consequuntur est delectus temporibus autem. Deserunt ab porro similique est accusamus id enim aut suscipit.\\nSoluta reprehenderit error nesciunt odit veniam sed.\\nDolore optio qui aut ab.\\nAut minima provident eius repudiandae a quibusdam in nisi quam. Animi enim quo deserunt.\\nAmet facilis at laboriosam.\\nRerum assumenda harum et sapiente suscipit ipsa fugiat.\\nSunt ut aut rem expedita consequatur optio.\\nRecusandae tenetur rerum quos culpa. Cum vitae aliquam neque consequatur quia id dicta ipsam.\\nExercitationem ab eum exercitationem non alias numquam qui.\\nItaque rerum ut nobis est nam vitae exercitationem minima fugiat.\\nEst sit non tempora soluta consequatur eveniet.\\nCorporis nisi dolorem architecto voluptatem. Ipsam voluptate fugiat iusto illo dignissimos rerum sint placeat.\\nLabore sit omnis. Voluptatem cumque molestias soluta consequatur aut voluptatibus beatae vel commodi.\\nNulla voluptatem aut. Cum vitae aliquam neque consequatur quia id dicta ipsam.\\nExercitationem ab eum exercitationem non alias numquam qui.\\nItaque rerum ut nobis est nam vitae exercitationem minima fugiat.\\nEst sit non tempora soluta consequatur eveniet.\\nCorporis nisi dolorem architecto voluptatem. Aut ipsa et qui vel similique sed hic a.\\nVoluptates dolorem culpa nihil aut ipsam voluptatem. Debitis facilis dolorum maiores aut et.\\nEa voluptas magnam deserunt at ut sunt voluptatem.\\nEt voluptatem voluptatem.\\nUt est fugiat magnam. Dicta quia molestias natus est.\\nSit animi inventore a ut ut suscipit.\\nEos et et commodi eligendi nihil.\\nEa reprehenderit consectetur eum.",
-          "createdAt": "2024-05-15T17:38:35.998Z",
-          "updatedAt": "2024-05-15T17:38:35.998Z",
-          "authorId": 1,
-          "tagList": [
-            {
-              "name": "ducimus"
-            },
-            {
-              "name": "nemo"
-            },
-            {
-              "name": "cupiditate"
-            },
-            {
-              "name": "vitae"
-            }
-          ],
-          "author": {
-            "username": "Kseniya Peña",
-            "bio": null,
-            "image": "https://api.realworld.io/images/demo-avatar.png",
-            "followedBy": []
-          },
-          "favoritedBy": [],
-          "_count": {
-            "favoritedBy": 0
-          }
-        },
-        {
-          "id": 5,
-          "slug": "The-GB-port-is-down-quantify-the-mobile-circuit-so-we-can-hack-the-SMTP-system!-1",
-          "title": "The GB port is down, quantify the mobile circuit so we can hack the SMTP system!",
-          "description": "Quia sit architecto itaque voluptas aliquam. Rem veritatis qui quasi sint velit dolorem maxime voluptatem. Sit aut laboriosam aspernatur dicta non consequatur qui recusandae. Dignissimos voluptatem labore praesentium.",
-          "body": "Est est sed itaque necessitatibus vitae officiis.\\nIusto dolores sint eveniet quasi dolore quo laborum esse laboriosam.\\nModi similique aut voluptates animi aut dicta dolorum.\\nSint explicabo autem quidem et.\\nNeque aspernatur assumenda fugit provident. Voluptate et quasi optio eos et eveniet culpa et nobis.\\nSint aut sint sequi possimus reiciendis nisi.\\nRerum et omnis et sit doloribus corporis voluptas error.\\nIusto molestiae tenetur necessitatibus dolorem omnis. Ut autem labore nisi iusto.\\nRepellendus voluptate eaque eligendi nam facere tempora soluta.\\nAnimi sed vero aut dignissimos. Facere consequatur ullam.\\nSint illum iste ab et saepe sit ut quis voluptatibus.\\nQuo esse dolorum a quasi nihil.\\nError quo eveniet.\\nQuia aut rem quia in iste fugit ad. Exercitationem suscipit enim et aliquam dolor. Deleniti explicabo assumenda ipsum cumque voluptatem blanditiis voluptatum omnis provident.\\nQuis placeat nisi fugit aperiam quaerat mollitia.\\nOccaecati repellendus voluptate similique.\\nLaboriosam qui qui voluptas itaque ipsa. Autem reiciendis provident iure possimus.\\nOccaecati soluta quibusdam libero tenetur minus vel sit illo.\\nCulpa optio dolorem eos similique voluptatem voluptatibus error accusantium. Laborum itaque quos provident.\\nRerum cupiditate praesentium amet voluptatem dolor impedit modi dicta.\\nVoluptates assumenda optio est.\\nNon aperiam nam consequuntur vel a commodi dicta incidunt. Pariatur quo neque est perspiciatis non illo rerum expedita minima.\\nEt commodi voluptas eos ex.\\nUnde velit delectus deleniti deleniti non in sit.\\nAliquid voluptatem magni. Sunt excepturi ut dolore fuga.\\nAutem eum maiores aut nihil magnam corporis consectetur sit.",
-          "createdAt": "2024-05-15T17:38:35.998Z",
-          "updatedAt": "2024-05-15T17:38:35.998Z",
-          "authorId": 1,
-          "tagList": [
-            {
-              "name": "maiores"
-            },
-            {
-              "name": "error"
-            },
-            {
-              "name": "fugiat"
-            }
-          ],
-          "author": {
-            "username": "Kseniya Peña",
-            "bio": null,
-            "image": "https://api.realworld.io/images/demo-avatar.png",
-            "followedBy": []
-          },
-          "favoritedBy": [],
-          "_count": {
-            "favoritedBy": 0
-          }
+        "favoritedBy": [],
+        "_count": {
+          "favoritedBy": 0
         }
-      ],
-      "id": "c3bbd5d4b0b03d33",
-      "timestamp": 1715796538681000,
+      },
+      "id": "b5a40b5a6b5440e6",
+      "timestamp": 1716262783849000,
       "startup": false
     }
   ],
-  "observedCalls": []
+  "observedCalls": [
+    {
+      "library": "prisma",
+      "input": {
+        "model": "Article",
+        "operation": "findUnique",
+        "queryOptions": {
+          "where": {
+            "slug": "First-article-53"
+          },
+          "select": {
+            "slug": true
+          }
+        }
+      },
+      "id": "b50c9ed8adcaedf8",
+      "startup": false
+    },
+    {
+      "library": "prisma",
+      "input": {
+        "model": "Article",
+        "operation": "create",
+        "queryOptions": {
+          "data": {
+            "title": "First article",
+            "description": "This is my first article",
+            "body": "The full content of the article",
+            "slug": "First-article-53",
+            "tagList": {
+              "connectOrCreate": [
+                {
+                  "create": {
+                    "name": "tag1"
+                  },
+                  "where": {
+                    "name": "tag1"
+                  }
+                }
+              ]
+            },
+            "author": {
+              "connect": {
+                "id": 53
+              }
+            }
+          },
+          "include": {
+            "tagList": {
+              "select": {
+                "name": true
+              }
+            },
+            "author": {
+              "select": {
+                "username": true,
+                "bio": true,
+                "image": true,
+                "followedBy": true
+              }
+            },
+            "favoritedBy": true,
+            "_count": {
+              "select": {
+                "favoritedBy": true
+              }
+            }
+          }
+        }
+      },
+      "id": "b5a40b5a6b5440e6",
+      "startup": false
+    }
+  ]
 }
