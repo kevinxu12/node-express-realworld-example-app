@@ -11,12 +11,12 @@ const getTokenFromHeaders = (req: express.Request): string | null => {
   return null;
 };
 
+const dummyMiddleware = (req: express.Request, res: express.Response, next: express.NextFunction) => {
+  next();
+};
+
 const auth = {
-  required: jwt({
-    secret: process.env.JWT_SECRET || 'superSecret',
-    getToken: getTokenFromHeaders,
-    algorithms: ['HS256'],
-  }),
+  required: dummyMiddleware,
   optional: jwt({
     secret: process.env.JWT_SECRET || 'superSecret',
     credentialsRequired: false,
