@@ -11,4 +11,7 @@ module.exports = {
     },
     moduleFileExtensions: ["ts", "tsx", "js", "jsx", "json", "node"],
     testTimeout: 20000, // 20 seconds
+    collectCoverage: true,
+    coverageDirectory: "<rootDir>/coverage/detail",
+    coverageReporters: ["lcov"],
   };
