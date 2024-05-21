@@ -107,7 +107,7 @@ unsuccessful_update_first_article_output=$(curl -s -S -X PUT http://localhost:30
 delete_first_article_output=$(curl -s -S -X DELETE http://localhost:3000/api/articles/$FIRST_ARTICLE_SLUG \
      -H "Content-Type: application/json" \
      -H "Authorization: Bearer $USER1_LOGIN_TOKEN")
-     
+
 echo "Subsection -- Start -- Article comments"
 # Second article is the only one up at this point
 add_comment_output=$(curl -s -S -X POST http://localhost:3000/api/articles/$SECOND_ARTICLE_SLUG/comments \

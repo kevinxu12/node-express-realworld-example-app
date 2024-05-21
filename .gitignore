@@ -40,3 +40,8 @@ testem.log
 Thumbs.db
 
 .nx/cache
+
+# detail
+src/detail/generated
+src/detail/coverage
+generated/
