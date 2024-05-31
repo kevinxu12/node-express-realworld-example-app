@@ -1,10 +1,10 @@
+import prismaMock from '../prisma-mock';
 import * as bcrypt from 'bcryptjs';
 import { createUser, getCurrentUser, login, updateUser } from '../../app/routes/auth/auth.service';
-import prismaMock from '../prisma-mock';
 
 describe('AuthService', () => {
   describe('createUser', () => {
-    test.skip('should create new user ', async () => {
+    test('should create new user ', async () => {
       // Given
       const user = {
         id: 123,
@@ -155,7 +155,7 @@ describe('AuthService', () => {
       await expect(login(user)).rejects.toThrow(error);
     });
 
-    test.skip('should throw an error when no user is found', async () => {
+    test('should throw an error when no user is found', async () => {
       // Given
       const user = {
         email: 'realworld@me',
@@ -170,7 +170,7 @@ describe('AuthService', () => {
       await expect(login(user)).rejects.toThrow(error);
     });
 
-    test.skip('should throw an error if the password is wrong', async () => {
+    test('should throw an error if the password is wrong', async () => {
       // Given
       const user = {
         email: 'realworld@me',
@@ -200,7 +200,7 @@ describe('AuthService', () => {
   });
 
   describe('getCurrentUser', () => {
-    test.skip('should return a token', async () => {
+    test('should return a token', async () => {
       // Given
       const id = 123;
 
@@ -224,7 +224,7 @@ describe('AuthService', () => {
   });
 
   describe('updateUser', () => {
-    test.skip('should return a token', async () => {
+    test('should return a token', async () => {
       // Given
       const user = {
         id: 123,
